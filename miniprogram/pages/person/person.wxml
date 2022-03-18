@@ -16,7 +16,7 @@
         <view class="cs-choose">myReport</view>
     </view>
     <view class="partrd">
-        <view class="cs-choose">myReport</view>
+        <view class="cs-choose">1</view>
         <view class="cs-choose">`</view>
     </view>
 </view>
